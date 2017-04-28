@@ -1,4 +1,5 @@
-#LightCurves
+# LightCurves
+
 The goal here is to read stars from one MongoDB catalog and create a list of light curves saved in another MongoDB catalog.
 
 The magic of populating the first database with planets around the stars happened in a Node.js project. This project only generates a simple light curve of those planes.
